@@ -133,7 +133,7 @@ This project develops an **induction cooker** that integrates:
 ## 📞 Contact
 
 For inquiries about this project:
-- Email: [kosisochukwu.moronu.244058@unn.edu.ng] | [Kachi.dev.004@gmail.com]
+- Email: kosisochukwu.moronu.244058@unn.edu.ng | Kachi.dev.004@gmail.com
 
 ---
 
